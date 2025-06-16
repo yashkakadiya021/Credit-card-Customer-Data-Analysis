@@ -48,11 +48,9 @@ This report helps stakeholders understand how credit card usage is evolving whil
 
 ---
 
-## 📈 Dashboard Preview (Optional)
+## 📈 Dashboard Preview 
 
-https://github.com/yashkakadiya021/Credit-card-Customer-Data-Analysis/blob/main/Dashboards.pbix#:~:text=t-,Dashboards,-.pbix
-
----
+bit.ly/preview_here
 
 ## ⚙️ Tech Stack
 
