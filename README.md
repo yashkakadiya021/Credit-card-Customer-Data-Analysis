@@ -50,7 +50,7 @@ This report helps stakeholders understand how credit card usage is evolving whil
 
 ## 📈 Dashboard Preview 
 
-bit.ly/preview_here
+- https://bit.ly/preview_here
 
 ## ⚙️ Tech Stack
 
