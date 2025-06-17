@@ -49,7 +49,6 @@ This report helps stakeholders understand how credit card usage is evolving whil
 ---
 
 ## 📈 Dashboard Preview 
-
 - Transformed the raw data in meaningful visuals 🔗 [check_here](https://bit.ly/preview_here)
 
 
