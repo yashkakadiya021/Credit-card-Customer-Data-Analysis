@@ -1,62 +1,109 @@
-# 💳 Credit Card Weekly Status Report
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Credit Card Weekly Status Report</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f5f7fa;
+      color: #333;
+      padding: 40px;
+      max-width: 900px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    h1, h2, h3 {
+      color: #4B0082;
+    }
+    .section {
+      background-color: #fff;
+      border-left: 5px solid #4B0082;
+      padding: 20px 30px;
+      margin-bottom: 30px;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    a {
+      color: #4B0082;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      list-style-type: '✅ ';
+      padding-left: 20px;
+    }
+    .emoji {
+      font-size: 20px;
+      margin-right: 6px;
+    }
+  </style>
+</head>
+<body>
 
-📊 **A Comprehensive Analysis of Credit Card Usage, Transactions & Customer Behavior**
+  <h1>💳 Credit Card Weekly Status Report</h1>
+  <h3>📊 A Comprehensive Analysis of Credit Card Usage, Transactions & Customer Behavior</h3>
 
----
+  <div class="section">
+    <h2>🧠 Overview</h2>
+    <p>The <strong>Credit Card Weekly Status Report</strong> provides data-driven insights into credit card trends, including:</p>
+    <ul>
+      <li>💰 Transaction volumes</li>
+      <li>👥 Customer spending behavior</li>
+      <li>🔎 Irregularities and risk flags</li>
+      <li>📈 Business growth indicators</li>
+    </ul>
+    <p>This report helps stakeholders understand how credit card usage is evolving while supporting risk mitigation and business expansion.</p>
+  </div>
 
-## 🧠 Overview
+  <div class="section">
+    <h2>📌 Objectives</h2>
+    <ul>
+      <li>Identify weekly trends in card transactions and customer activity</li>
+      <li>Detect anomalies and irregularities in spending patterns</li>
+      <li>Monitor key KPIs like approval rates, delinquent accounts, and outstanding balances</li>
+      <li>Support data-driven decision making for credit issuance and portfolio health</li>
+    </ul>
+  </div>
 
-The **Credit Card Weekly Status Report** provides data-driven insights into credit card trends, including:
+  <div class="section">
+    <h2>📅 Weekly Highlights</h2>
+    <p>🔍 The analysis is based on <strong>data from a specific week</strong>, offering a snapshot of:</p>
+    <ul>
+      <li>📉 Card approval & rejection rates</li>
+      <li>📊 Transaction volumes by category</li>
+      <li>🧾 Outstanding balances & delinquency trends</li>
+      <li>👤 Customer profiles & demographic segments</li>
+    </ul>
+  </div>
 
-- 💰 Transaction volumes  
-- 👥 Customer spending behavior  
-- 🔎 Irregularities and risk flags  
-- 📈 Business growth indicators  
+  <div class="section">
+    <h2>📌 Why This Matters</h2>
+    <ul>
+      <li>Stay ahead of market and usage trends</li>
+      <li>Optimize credit policies</li>
+      <li>Improve risk management strategies</li>
+      <li>Align credit operations with business growth goals</li>
+    </ul>
+  </div>
 
-This report helps stakeholders understand how credit card usage is evolving while supporting risk mitigation and business expansion.
+  <div class="section">
+    <h2>📈 Dashboard Preview</h2>
+    <p>Transformed the raw data into meaningful visuals 👉 <a href="https://bit.ly/preview_here" target="_blank">check_here</a></p>
+  </div>
 
----
+  <div class="section">
+    <h2>⚙️ Tech Stack</h2>
+    <ul>
+      <li>Python / Pandas / NumPy</li>
+      <li>Power BI / Tableau / Excel</li>
+      <li>SQL / Data Cleaning</li>
+      <li>Visualization & Reporting Tools</li>
+    </ul>
+  </div>
 
-## 📌 Objectives
-
-- Identify weekly trends in card transactions and customer activity  
-- Detect anomalies and irregularities in spending patterns  
-- Monitor key KPIs like approval rates, delinquent accounts, and outstanding balances  
-- Support data-driven decision making for credit issuance and portfolio health
-
----
-
-## 📅 Weekly Highlights
-
-🔍 The analysis is based on **data from a specific week**, offering a snapshot of:
-
-- 📉 Card approval & rejection rates  
-- 📊 Transaction volumes by category  
-- 🧾 Outstanding balances & delinquency trends  
-- 👤 Customer profiles & demographic segments
-
----
-
-## 📌 Why This Matters
-
-✅ Regular weekly analysis allows teams to:
-
-- Stay ahead of market and usage trends  
-- Optimize credit policies  
-- Improve risk management strategies  
-- Align credit operations with business growth goals
-
----
-
-## 📈 Dashboard Preview 
-- Transformed the raw data in meaningful visuals 🔗 [check_here](https://bit.ly/preview_here)
-
-
-## ⚙️ Tech Stack
-
-- Python / Pandas / NumPy  
-- Power BI / Tableau / Excel  
-- SQL / Data Cleaning  
-- Visualization & Reporting Tools
-
----
+</body>
+</html>
