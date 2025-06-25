@@ -4,44 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Credit Card Weekly Status Report</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f5f7fa;
-      color: #333;
-      padding: 40px;
-      max-width: 900px;
-      margin: auto;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #4B0082;
-    }
-    .section {
-      background-color: #fff;
-      border-left: 5px solid #4B0082;
-      padding: 20px 30px;
-      margin-bottom: 30px;
-      border-radius: 10px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-    a {
-      color: #4B0082;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      list-style-type: '✅ ';
-      padding-left: 20px;
-    }
-    .emoji {
-      font-size: 20px;
-      margin-right: 6px;
-    }
-  </style>
-</head>
+
 <body>
 
   <h1>💳 Credit Card Weekly Status Report</h1>
