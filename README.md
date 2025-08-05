@@ -3,6 +3,10 @@
 <h2>📊 A Comprehensive Analysis of Credit Card Usage, Transactions & Customer Behavior</h2>
 <br>
 
+<img width="876" height="455" alt="💳 Credit Card Weekly Status Report - visual selection" src="https://github.com/user-attachments/assets/bf619c95-83b3-4c5f-b01b-ba18fae59f5e" />
+
+---
+
 <h2>🧠 Overview</h2>
 <p>The <strong>Credit Card Weekly Status Report</strong> provides data-driven insights into credit card trends, including:</p>
 <p>💰 Transaction volumes<br>
@@ -11,6 +15,8 @@
 📈 Business growth indicators</p>
 <p>This report helps stakeholders understand how credit card usage is evolving while supporting risk mitigation and business expansion.</p>
 <br>
+
+
 
 <h2>📌 Objectives</h2>
 <p>✅ Identify weekly trends in card transactions and customer activity<br>
